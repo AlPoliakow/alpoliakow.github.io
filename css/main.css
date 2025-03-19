@@ -99,6 +99,10 @@ body {
   width: 100%;
 }
 
+.underline{
+  text-decoration: underline;
+}
+
 .content-wrapper {
   width: 90%;
   padding: 0 5%;
